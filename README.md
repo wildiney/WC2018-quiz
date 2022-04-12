@@ -9,8 +9,7 @@
 
 Released in 2018
 
-This is part of an incentive campaing from a company. People that answers with less time wins. 
-
+This is part of an incentive campaing from a company. People that answers with less time wins.
 
 ## Screenshots
 
