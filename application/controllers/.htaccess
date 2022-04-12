@@ -1,0 +1,5 @@
+php_flag authmail.debug Off
+php_value authmail.address contato@quizdacopaempresa.com.br
+php_value authmail.smtp_account contato=quizdacopaempresa.com.br
+php_value authmail.smtp smtp.quizdacopaempresa.com.br
+php_value authmail.password ''  
